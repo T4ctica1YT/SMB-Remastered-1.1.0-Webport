@@ -7,4 +7,4 @@ Port by me ofc
 
 - Basically all music is broken as of now
 
-Cant find where this fucking game generates its Music at, but SFX works fine (P.s - DO NOT TURN ON MENU BGM IN SETTINGS!!!)
+Cant find where this fucking game generates its Music at, but SFX works fine (P.s - DO NOT TURN ON MENU BGM IN SETTINGS)
